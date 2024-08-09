@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm @Harini Murali</h1>
 <h3 align="center">I’m interested in problem-solving, web development, and exploring new technologies</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harinirpm" alt="harinirpm" /></a> </p>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 - 📫 How to reach me **harinirangammal4@gmail.com**
 
