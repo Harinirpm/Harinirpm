@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Passionate about exploring new technologies<br>📚 Currently diving into Spring Boot development<br>🎯 Actively building a project titled Blood Buddy Platform<br>🎲 Life mantra: Sleep. Eat. Code. Repeat.</p>
+<p align="left">✨ Passionate about exploring new technologies<br>📚 Currently diving into Spring Boot development<br>🎯 Actively building a project titled Blood Buddy Platform<br>🎲 Life mantra: Think, Build, Innovate, Repeat</p>
 
 ###
 
