@@ -1,8 +1,16 @@
 <h1 align="left">Hello Developers 👋</h1>
 
 ###
-
-<p align="left">I’m Harini Murali, a student specializing in Artificial Intelligence and Data Science, with a strong interest in Software Development Engineering.<br><br>Thank you for visiting my profile. You can learn more about my work by exploring my repositories -->></p>
+<p>
+I'm <strong>Harini M</strong> <br><br>
+An <strong>AI & Data Science Graduate</strong> with a strong passion for
+<strong>Software Engineering</strong>. I enjoy designing efficient solutions,
+writing clean code, and developing applications that solve real-world problems.<br><br>
+My interests span across <strong>Java Development, Full-Stack Web Development,
+Data Structures & Algorithms, and Artificial Intelligence</strong>.
+I believe in continuous learning, hands-on development, and turning challenges into opportunities for growth.<br><br>
+💡 Explore my repositories to see my projects, technical explorations, and coding journey.
+</p>
 
 ###
 
