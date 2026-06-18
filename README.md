@@ -3,13 +3,13 @@
 ###
 <p>
 I'm <strong>Harini M,</strong> <br>
-An <strong>AI & Data Science Graduate</strong> with a strong passion for
+- An <strong>AI & Data Science Graduate</strong> with a strong passion for
 <strong>Software Engineering</strong>. I enjoy designing efficient solutions,
 writing clean code, and developing applications that solve real-world problems.<br>
-My interests span across <strong>Java Development, Full-Stack Web Development,
+- My interests span across <strong>Java Development, Full-Stack Web Development,
 Data Structures & Algorithms, and Artificial Intelligence</strong>.
 I believe in continuous learning, hands-on development, and turning challenges into opportunities for growth.<br>
-Explore my repositories to see my projects, technical explorations, and coding journey.
+- Explore my repositories to see my projects, technical explorations, and coding journey.
 </p>
 
 ###
