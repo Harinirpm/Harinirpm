@@ -2,7 +2,7 @@
 
 ###
 <p>
-I'm <strong>Harini M</strong> <br>
+I'm <strong>Harini M,</strong> <br>
 An <strong>AI & Data Science Graduate</strong> with a strong passion for
 <strong>Software Engineering</strong>. I enjoy designing efficient solutions,
 writing clean code, and developing applications that solve real-world problems.<br>
