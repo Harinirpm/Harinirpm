@@ -21,13 +21,14 @@
 ###
 
 <p align="left">
+ <ul>
 <li> Solving real-world problems through software<br></li>
 <li> Building scalable applications with Java<br></li>
 <li> Exploring AI, ML, LLMs & Cloud Technologies<br></li>
 <li> Learning something new every day</li>
+ </ul>
 </p>
 
-###
 <h2>Major Projects</h2>
 
 <ul>
@@ -41,7 +42,8 @@
     A role-based blood donation and blood bank management system that streamlines donor registration, blood requests, inventory management, and emergency donor notifications.
   </li>
 </ul>
-###
+
+
 <h2 align="left">Tech Skills</h2>
 
 ###
